@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="cc.fovea.purchaseJohn" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>PurchaseDemo</name>
+    <description>
+        A sample Cordova application that demonstrates the use of the Purchase plugin
+    </description>
+    <author email="contact@fovea.cc" href="http://fovea.cc">
+        Fovea Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
